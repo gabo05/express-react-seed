@@ -1,0 +1,6 @@
+node_modules
+client/js
+client/libdev
+dist
+.env
+.DS_Store

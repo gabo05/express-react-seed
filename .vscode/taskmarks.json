@@ -1,0 +1,16 @@
+{
+	"activeTaskName": "default",
+	"tasks": [
+		{
+			"name": "default",
+			"files": [
+				{
+					"filepath": "/src/app.ts",
+					"marks": [
+						18
+					]
+				}
+			]
+		}
+	]
+}
